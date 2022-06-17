@@ -56,7 +56,7 @@ https://www.kaggle.com/datasets/anshulmehtakaggl/wildlife-animals-images
 #### **How to run the inference**
 ```html
     (Run jupyter notebook for train the model and check accuracy and whatnot)
-    # For exploring the model run following command
+    # For exploring the model run the below command
     > python run_test.py "<img_file_name>"
 ```
 ---
