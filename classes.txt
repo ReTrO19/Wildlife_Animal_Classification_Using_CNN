@@ -1,0 +1,6 @@
+cheetah
+fox
+hyena
+lion
+tiger
+wolf

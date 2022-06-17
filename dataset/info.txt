@@ -1,0 +1,1 @@
+Segerate Data before training the model
